@@ -11,7 +11,7 @@ python3 After_math.py
  **Hrishikesh Padhye**
 
 * Twitter: [@Hrishi_says_so](https://twitter.com/Hrishi_says_so)
-* Github: [iamhrishikesh](https://github.com/Hrishikesh-Padhye)
+* Github: [iamhrishikesh](https://github.com/iamhrishikeshpadhye)
 
 #### Contributing
 
